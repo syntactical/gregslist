@@ -1,0 +1,20 @@
+{
+  "name": "gregslist",
+  "version": "1.0.0",
+  "description": "craigslist like webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syntactical/gregslist.git"
+  },
+  "author": "Greg Dutcher & Ricky Wayne Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syntactical/gregslist/issues"
+  },
+  "homepage": "https://github.com/syntactical/gregslist"
+}
+
